@@ -1,2 +1,2 @@
-# python
-This script will dynamically get the captcha image from page and grab the text from it. 
+# How to extract captcha text from the image?
+Grab a real CAPTCHA image from a website that uses and grab the text from it. 
